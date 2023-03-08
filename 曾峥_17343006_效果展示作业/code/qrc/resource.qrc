@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>../images/ui/background.png</file>
+    <file>../images/ui/scan.gif</file>
+    <file>../images/ui/model.png</file>
+    <file>../images/ui/camera.png</file>
+    <file>../images/ui/file.png</file>
+    <file>../images/ui/speed.png</file>
+    <file>../images/ui/result.png</file>
+    <file>../images/ui/slice.png</file>
+    <file>../images/ui/init.png</file>
+</qresource>
+</RCC>
